@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Pc , Software**
 
-- 📫 How to reach me **Discord : 0b.1**
+- 📫 How to reach me **Discord : [0b.1](https://discord.com/users/594841545929129985)**
 
 - ⚡ Fun fact **I love Cats**
 
