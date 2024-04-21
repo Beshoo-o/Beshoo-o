@@ -18,12 +18,14 @@
 
 - 📫 How to reach me **Discord : [0b.1](https://discord.com/users/594841545929129985)**
 
+- 🛒 Store : **[Programming World](https://discord.gg/prw)**
+
 - ⚡ Fun fact **I love Cats**
 
 <h3 align="left">Connect with me 💜:</h3>
 <p align="left">
 <a href="https://instagram.com/bashar_raed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bashar_raed" height="30" width="40" /></a>
-<a href="https://discord.gg/MADEMyE7gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MADEMyE7gd" height="30" width="40" /></a>
+<a href="https://discord.gg/prw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MADEMyE7gd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools ⚙️:</h3>
