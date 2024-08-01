@@ -1,14 +1,14 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Bashar</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=27&duration=2000&pause=200&color=F700E1&background=FF000000&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+this+is+me+Bashar+.;And+this+is+my+profile%2C;Ur+welcome." alt="Typing SVG" /></a>
-<h3 align="center">A developer from Jordan</h3>
+<h3 align="center">A developer from Jordan & Founder of RSS Company</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1fc01bafac7776e344e2cd086317c8d60aa54f1986e4bf3ec9513485717e7186/68747470733a2f2f6669766572722d7265732e636c6f7564696e6172792e636f6d2f696d616765732f745f6d61696e312c715f6175746f2c665f6175746f2c715f6175746f2c665f6175746f2f6174746163686d656e74732f64656c69766572792f61737365742f37656336363430613037323337653039316633666536613934366534313337332d313634373534393838302f7068696c6970706567656e64253230313078253230616e696d617465642f6372656174652d70726f66657373696f6e616c2d706978656c2d6172742d696c6c757374726174696f6e732d616e642d616e696d6174696f6e732e676966">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/594841545929129985?theme=light&bg=70369d&animated=false)](https://discord.com/users/594841545929129985)
 
 [![](https://visitcount.itsvg.in/api?id=Beshoo-o&style=flat&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 ![Static Badge](https://img.shields.io/badge/Omar&Aoun-r?style=flat&label=My%20Love&labelColor=purple&color=pink&link=https%3A%2F%2Fwww.instagram.com%2Fomar_d_alt%2F)
-![Discord](https://img.shields.io/discord/813726611824181278?style=flat&label=Store%20Online%20&labelColor=blue&color=green&link=https%3A%2F%2Fdiscord.gg%VzSHHHAsTG)
+![Discord](https://img.shields.io/discord/813726611824181278?style=flat&label=Store%20Online%20&labelColor=blue&color=green&link=https%3A%2F%2Fdiscord.gg%2FJwwa25MJe4)
 
 - 🔭 I’m currently working on **LogIn Bot**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Discord : [0b.1](https://discord.com/users/594841545929129985)**
 
-- 🛒 Store : **[Programming World](https://discord.gg/r-ss)**
+- 🛒 Store : **[Programming World](https://discord.gg/VzSHHHAsTG)**
 
 - ⚡ Fun fact **I love Cats**
 
