@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Discord : [0b.1](https://discord.com/users/594841545929129985)**
 
-- 🛒 Store : **[Programming World](https://discord.gg/VzSHHHAsTG)**
+- 🛒 Store : **[RSS](https://discord.gg/VzSHHHAsTG)**
 
 - ⚡ Fun fact **I love Cats**
 
