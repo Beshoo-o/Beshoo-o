@@ -34,7 +34,6 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Bashar2009) 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beshoo-o&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Beshoo-o" /></p>
 
-## 🐍 Watch snake eating my github contributions
-
-![snake gif](https://github.com/Beshoo-o/Beshoo-o/blob/output/github-contribution-grid-snake.gif)
+![Bashar GitHub stats](https://github-readme-stats.vercel.app/api?username=Beshoo-o&theme=synthwave&show_icons=true)
