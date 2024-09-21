@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Omar&Aoun-r?style=flat&label=My%20Love&labelColor=purple&color=pink&link=https%3A%2F%2Fwww.instagram.com%2Fomar_d_alt%2F)
 ![Discord](https://img.shields.io/discord/813726611824181278?style=flat&label=Store%20Online%20&labelColor=blue&color=green&link=https%3A%2F%2Fdiscord.gg%2FJwwa25MJe4)
 
-- 🔭 I’m currently working on **RSS Bots System**
+- 🔭 I’m currently working on **🦦**
 
 - 🌱 I’m currently learning **Html**
 
